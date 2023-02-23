@@ -1,0 +1,25 @@
+{
+	"validation": {
+		"required": "{{ key }}は必須項目です。 ",
+		"max_length": "{{ key }}は{{ max }}文字以下でなければなりません。",
+		"incorrect_max_length": "現在の入力文字数：{{ currentCount }}文字 / {{ maxCount }}文字",
+		"price_min_value": "金額を{{ min }}より大きい数字で入力してください",
+		"max_file_size": "ファイル\"{{ fileName }}\" ({{ size }} KB)はアップロード可能な上限容量{{ sizeRequired }}を超えています",
+		"max_file_size_number": "ファイル\"{{ fileName }}\" ({{ size }} KB)はアップロード可能な上限容量{{maxSize}} KBを超えています",
+		"incorrect_file_type": "\"{{ fileName }}\"は無効なファイル形式です。\"image\"形式のファイルのみサポートしています",
+		"incorrect_file_type_upload": "\"{{ fileName }}\"は無効なファイル形式です。画像形式はpng,jpg,gif形式、音声はmp3形式、ビデオファイル(mp4)のみアップロードが可能です",
+		"incorrect_file_type_upload_2": "\"{{ fileName }}\"のファイル形式が無効です。 PDF、パワーポイント、ビデオ（mp4、webm）ファイルをアップロードできます。",
+		"incorrect_end_time": "受講期間の制限(開始日時)は、受講期間の制限(終了日時)より前にしてください。",
+		"required_limit_date": "日付を入力してください。(時刻は省略できます)",
+		"remove_extension": "拡張子は変更できません"
+	},
+	"COURSE_ALREADY_EXIST": "同名の講座が、既に存在しています",
+	"ERROR_REGISTER_UNIT_ALREADY_EXIST": "同じ名前のユニットが、講座にすでに存在しています。",
+	"COURSE_CATEGORY_NAME_ALREADY_EXIST": "同じ名前のコースカテゴリがすでに存在します",
+	"ERROR_SAME_CATEGORY_CAN_NOT_SELECTED": "親講座カテゴリには自身と同じカテゴリは選択できません。",
+	"ERROR_MODIFIED_HIERARCHY_EXCEEDS": "変更後の階層が2階層を超えています。",
+	"ERROR_HAVE_A_COURSE_COST_IN_LIST": "選択された講座の中にユーザーが購入された有料講座があるため、まとめて削除できません。",
+	"FILE_NAME_EXIST": "同名のファイルが存在します",
+	"AUTOMATIC_COURSE_ASSIGNMENT_ALREADY_EXIST": "自動割り当て設定名は既に使われています。 別の設定名を入力してください。",
+	"ERROR_INVALID_RANGE_DATE": "閉講日時が開講日時以前に指定されています。"
+}

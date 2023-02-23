@@ -1,0 +1,37 @@
+{
+	"home": "メニューホーム",
+	"user": " ユーザー管理",
+	"contact": "連絡管理",
+	"course": "講座管理",
+
+	"course_result": "受講結果",
+	"status_learn_course_of_user": "(講座）ユーザー別の修了状況",
+	"unit_learn_course_of_user": "(ユニット）ユーザー別の修了状況",
+	"report_histories": "レポートの閲覧・評価",
+	"statistical_results_of_survey": "講座アンケートの集計結果",
+	"test_results": "テストの受験結果",
+	"survey_answer": "講座アンケートの回答履歴",
+
+	"community": "コミュニティ管理",
+	"inquiry": "問い合わせ管理",
+	"library": "ライブラリ管理",
+	"settings": "サイト設定",
+	"recording":"ボイスメモ",
+	"company": "企業管理",
+
+	"registration_course_categories": "講座カテゴリの登録・管理",
+	"registration_courses": "講座の登録・管理",
+	"unit_settings": "ユニット設定",
+	"upload_file": "講座用ファイルのアップロード",
+	"auto_assignment": "自動割り当て（講座）の設定",
+	"test_question": "テスト問題の管理",
+	"issus_permission": "受講権限の発行",
+	"issue_status_permissions": "受講権限の発行状態",
+	
+	"user_management": "ユーザー管理",
+	"register": "ユーザーの登録",
+	"batch_register": "ユーザーの一括登録・変更（CSV）",
+	"group_management": "グループの登録・管理",
+	"attribute_management": "属性を登録・管理",
+	"login_history": "ログイン履歴"
+}

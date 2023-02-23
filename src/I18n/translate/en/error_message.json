@@ -1,0 +1,25 @@
+{
+	"validation": {
+		"required": "{{ key }} cannot be blank.",
+		"max_length": "{{ key }} should contain at most {{ max }} characters.",
+		"incorrect_max_length": "Current input character count: {{ currentCount }} character(s) / {{ maxCount }} characters.",
+		"price_min_value": "Please enter price of course greater than {{ min }}",
+		"max_file_size": "File \"{{ fileName }}\" ({{ size }} KB) exceeds maximum allowed upload size of {{ sizeRequired }}.",
+		"max_file_size_number": "File \"{{ fileName }}\" ({{ size }} KB) exceeds maximum allowed upload size of {{maxSize}} KB.",
+		"incorrect_file_type": "Invalid type for file \"{{ fileName }}\". Only \"image\" files are supported.",
+		"incorrect_file_type_upload": "\"{{ fileName }}\" is in an invalid file format. A png, jpg, or gif image file or a mp3 audio, mp4 video file can be uploaded.",
+		"incorrect_file_type_upload_2": "\"{{ fileName }}\" is in an invalid file format. A pdf, powerpoint, video (mp4, webm) file can be uploaded.",
+		"incorrect_end_time": "The course end date and time is set before the course start date and time.",
+		"required_limit_date": "Enter the date. (time can be omitted)",
+		"remove_extension": "An extension cannot be changed"
+	},
+	"COURSE_ALREADY_EXIST": "A course with the same name already exists",
+	"ERROR_REGISTER_UNIT_ALREADY_EXIST": "A unit with the same name already exists in the course.",
+	"COURSE_CATEGORY_NAME_ALREADY_EXIST": "A course category with the same name already exists",
+	"ERROR_SAME_CATEGORY_CAN_NOT_SELECTED": "The same category can not be selected and own the parent course category.",
+	"ERROR_MODIFIED_HIERARCHY_EXCEEDS": "The modified hierarchy exceeds 2 level(s).",
+	"ERROR_HAVE_A_COURSE_COST_IN_LIST": "In your selected courses to delete list, there are paid courses that users have bought, therefore you are not allowed to delete.",
+	"FILE_NAME_EXIST": "A file with the same name exists",
+	"AUTOMATIC_COURSE_ASSIGNMENT_ALREADY_EXIST": "This auto assignment settings name has already been taken. Please enter another name.",
+	"ERROR_INVALID_RANGE_DATE": "The course end date and time is set before the course start date and time."
+}

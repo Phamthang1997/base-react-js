@@ -1,0 +1,25 @@
+{
+	"validation": {
+		"required": "{{ key }} là mục bắt buộc.",
+		"max_length": "{{ key }} phải có từ {{ max }} ký tự trở xuống.",
+		"incorrect_max_length": "Số ký tự nhập vào hiện tại : {{ currentCount }} ký tự / {{ maxCount }} ký tự.",
+		"price_min_value": "Vui lòng nhập giá của khóa học lớn hơn {{ min }}",
+		"max_file_size": "Tập tin \"{{ fileName }}\" ({{ size }} KB) vượt quá kích thước giới hạn cho phép {{ sizeRequired }}.",
+		"max_file_size_number": "Tập tin \"{{ fileName }}\" ({{ size }} KB) vượt quá kích thước giới hạn cho phép {{maxSize}} KB.",
+		"incorrect_file_type": "Tập tin \"{{ fileName }}\" không hợp lệ. Chỉ hỗ trợ loại tập tin \"image\".",
+		"incorrect_file_type_upload": "\"{{ fileName }}\"  là định dạng tệp không hợp lệ. Bạn chỉ có thể tải lên các định dạng hình ảnh png, jpg, gif, âm thanh định dạng mp3, video mp4",
+		"incorrect_file_type_upload_2": "\"{{ fileName }}\"  là định dạng tệp không hợp lệ. Bạn chỉ có thể tải lên các định dạng pdf, powerpoint, video (mp4, webm)",
+		"incorrect_end_time": "Ngày bế giảng phải được xác định sau ngày khai giảng.",
+		"required_limit_date": "Hãy nhập ngày. (có thể bỏ giờ phút)",
+		"remove_extension": "Không thể thay đổi đuôi mở rộng"
+	},
+	"COURSE_ALREADY_EXIST": "Đã tồn tại khóa học có cùng tên",
+	"ERROR_REGISTER_UNIT_ALREADY_EXIST": "Đã tồn tại bài học có cùng tên trong khóa học.",
+	"COURSE_CATEGORY_NAME_ALREADY_EXIST": "Đã tồn tại danh mục khóa học có cùng tên",
+	"ERROR_SAME_CATEGORY_CAN_NOT_SELECTED": "Không thể lựa chọn danh mục giống với Danh mục khóa học",
+	"ERROR_MODIFIED_HIERARCHY_EXCEEDS": "Các hệ thống phân cấp được sửa đổi vượt mức 2.",
+	"ERROR_HAVE_A_COURSE_COST_IN_LIST": "Trong danh sách các khóa học bạn đã chọn để xóa, có tồn tại khóa học có phí mà đã được user mua, nên bạn không thể xóa.",
+	"FILE_NAME_EXIST": "Tồn tại file có cùng tên",
+	"AUTOMATIC_COURSE_ASSIGNMENT_ALREADY_EXIST": "Tên cài đặt gán tự động này đã tồn tại. Vui lòng nhập tên khác.",
+	"ERROR_INVALID_RANGE_DATE": "Ngày bế giảng phải được xác định trước ngày khai giảng."
+}

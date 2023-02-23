@@ -1,0 +1,37 @@
+{
+	"home": "Home",
+	"user": "User management",
+	"contact": "Contact management",
+	"course": "Course management",
+
+	"course_result": "Course results",
+	"status_learn_course_of_user": "(Course) Completion status by user",
+	"unit_learn_course_of_user": "(Unit) Completion status by user",
+	"report_histories": "View and evaluate reports",
+	"statistical_results_of_survey": "Aggregate results of course surveys",
+	"test_results": "Test results",
+	"survey_answer": "Course survey answer records",
+
+	"community": "Community management",
+	"inquiry": "Inquiry management",
+	"library": "Library management",
+	"settings": "Site settings",
+	"recording":"Recording",
+	"company": "Company management",
+
+	"registration_course_categories": "Registration and management of course categories",
+	"registration_courses": "Registration and management of courses",
+	"unit_settings": "Unit settings",
+	"upload_file": "Upload course files",
+	"auto_assignment": "Auto assignment (course) settings",
+	"test_question": "Test question management",
+	"issus_permission": "Issue of attendance permission",
+	"issue_status_permissions": "Issue status of attendance permissions",
+
+	"user_management": "User management",
+	"register": "Register user",
+	"batch_register": "Bulk registration and change of user (CSV)",
+	"group_management": "Registration and management of groups",
+	"attribute_management": "Registration and management of attributes",
+	"login_history": "Login history"
+}

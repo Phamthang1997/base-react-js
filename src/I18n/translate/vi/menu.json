@@ -1,0 +1,37 @@
+{
+	"home": "Trang chủ",
+	"user": "Quản lý người dùng",
+	"contact": "Quản lý liên lạc",
+	"course": "Quản lý khóa học",
+
+	"course_result": "Kết quả học tập",
+	"status_learn_course_of_user": "Trạng thái hoàn thành khoá học của học viên",
+	"unit_learn_course_of_user": "(Bài học) Trạng thái kết thúc theo người dùng",
+	"report_histories": "Xem và đánh giá báo cáo",
+	"statistical_results_of_survey": "Kết quả thống kê của bảng điều tra khóa học",
+	"test_results": "Kết quả làm bài kiểm tra",
+	"survey_answer": "Lịch sử trả lời bảng điều tra khóa học",
+
+	"community": "Quản lý cộng đồng",
+	"inquiry": "Quản lý yêu cầu",
+	"library": "Quản lý thư viện",
+	"settings": "Cài đặt trang web",
+	"recording":"Ghi âm",
+	"company": "Quản lý công ty",
+
+	"registration_course_categories": "Đăng ký/ Quản lý danh mục khóa học",
+	"registration_courses": "Đăng ký/ Quản lý khóa học",
+	"unit_settings": "Cài đặt bài học",
+	"upload_file": "Tải lên file dùng cho khóa học",
+	"auto_assignment": "Tự động gán (khóa học) cài đặt",
+	"test_question": "Quản lý câu hỏi bài kiểm tra",
+	"issus_permission": "Phát hành quyền tham gia học",
+	"issue_status_permissions": "Trạng thái cấp quyền tham gia",
+
+	"user_management": "Quản lý người dùng",
+	"register": "Đăng ký người dùng",
+	"batch_register": "Đăng ký / thay đổi hàng loạt người dùng (CSV)",
+	"group_management": "Đăng ký/ Quản lý nhóm",
+	"attribute_management": "Đăng ký/Quản lý thuộc tính",
+	"login_history": "Lịch sử đăng nhập"
+}

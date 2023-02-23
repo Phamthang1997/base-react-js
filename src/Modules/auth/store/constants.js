@@ -1,0 +1,1 @@
+export const LOAD_PROFILE = '@COURSE/LOAD_PROFILE'
